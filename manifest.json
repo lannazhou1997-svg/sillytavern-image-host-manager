@@ -1,0 +1,13 @@
+{
+  "display_name": "角色卡图床管家",
+  "loading_order": 50,
+  "requires": [],
+  "optional": [],
+  "dependencies": [],
+  "js": "index.js",
+  "css": "style.css",
+  "author": "Codex",
+  "version": "0.2.0",
+  "homePage": ""
+}
+
