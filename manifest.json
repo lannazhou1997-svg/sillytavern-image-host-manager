@@ -7,7 +7,8 @@
   "js": "index.js",
   "css": "style.css",
   "author": "Codex",
-  "version": "0.2.0",
-  "homePage": ""
+  "version": "0.3.0",
+  "homePage": "https://github.com/lannazhou1997-svg/sillytavern-image-host-manager",
+  "auto_update": true
 }
 
