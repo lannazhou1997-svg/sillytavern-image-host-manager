@@ -3,3 +3,5 @@
 .sihm-tabs{display:flex;gap:8px;flex-wrap:wrap;margin:14px 0}.sihm-tabs select{min-width:160px}.sihm-audio{width:120px;max-width:100%}@media(max-width:720px){.sihm-tabs{display:grid}.sihm-audio{width:80px}}
 .sihm-snippet{margin-top:5px;padding:6px 8px;border-radius:6px;background:#0003;font-family:ui-monospace,Consolas,monospace;white-space:normal;word-break:break-all}.sihm-location div{margin-top:3px}
 
+
+.sihm-group{container-type:inline-size}.sihm-summary>.toggle{white-space:nowrap;writing-mode:horizontal-tb;min-width:max-content}@container(max-width:700px){.sihm-summary{grid-template-columns:90px minmax(0,1fr)}.sihm-summary>.toggle{grid-column:1/-1;width:100%}.sihm-replace{grid-template-columns:1fr}.sihm-replace button{width:100%}}@container(max-width:430px){.sihm-summary{grid-template-columns:1fr}.sihm-preview,.sihm-audio{width:100%;max-width:100%}.sihm-summary>.toggle{grid-column:1}}
