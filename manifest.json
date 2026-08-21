@@ -4,10 +4,10 @@
   "requires": [],
   "optional": [],
   "dependencies": [],
-  "js": "index-0.11.0.js",
+  "js": "index-0.12.0.js",
   "css": "style.css",
   "author": "Codex",
-  "version": "0.11.0",
+  "version": "0.12.0",
   "homePage": "https://github.com/lannazhou1997-svg/sillytavern-image-host-manager",
   "auto_update": true
 }
